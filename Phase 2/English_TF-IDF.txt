@@ -1,0 +1,75 @@
+--------------------------------------------------------------------------------
+TF_IDF(Top 10):
+--------------------------------------------------------------------------------
+Q1 : Mr. Henry Dashwood had one son
+Number1: HowardsEnd.txt, Score: (21, 0.5274126846900873)
+Number2: TheSignOfTheFour.txt, Score: (6, 0.15700600690024621)
+Number3: ARoomWithAView.txt, Score: (11, 0.15047943541351644)
+Number4: TheMysteriousAffairAtStyles.txt, Score: (0, 0.14783079672094065)
+Number5: TheManWhoWasThursday.txt, Score: (16, 0.13867069267745114)
+Number6: AnneOfGreenGables.txt, Score: (15, 0.13004119053127766)
+Number7: ThePictureOfDorianGray.txt, Score: (20, 0.10398415985821147)
+Number8: APassageToIndia.txt, Score: (14, 0.10215085272864848)
+Number9: WinnieThePooh.txt, Score: (9, 0.08527563883818963)
+Number10: TheSunAlsoRises.txt, Score: (8, 0.07823090550532487)
+--------------------------------------------------
+Q2 : no money for gambling
+Number1: HowardsEnd.txt, Score: (23, 0.466932713113514)
+Number2: TheSignOfTheFour.txt, Score: (10, 0.2738828181245277)
+Number3: ARoomWithAView.txt, Score: (15, 0.2376726823509594)
+Number4: TheMysteriousAffairAtStyles.txt, Score: (2, 0.18585017252084104)
+Number5: TheManWhoWasThursday.txt, Score: (6, 0.18344105682855072)
+Number6: AnneOfGreenGables.txt, Score: (14, 0.18061145257128064)
+Number7: ThePictureOfDorianGray.txt, Score: (17, 0.17555555077475177)
+Number8: APassageToIndia.txt, Score: (9, 0.08188982566111178)
+Number9: WinnieThePooh.txt, Score: (0, 0.07878721979556916)
+Number10: TheSunAlsoRises.txt, Score: (26, 0.07319355360155738)
+--------------------------------------------------
+Q3 : All through the day Miss Abbott had seemed to Philip like a goddess
+Number1: HowardsEnd.txt, Score: (27, 0.44578767176275214)
+Number2: TheSignOfTheFour.txt, Score: (22, 0.10169726263259894)
+Number3: ARoomWithAView.txt, Score: (3, 0.08178978307695255)
+Number4: TheMysteriousAffairAtStyles.txt, Score: (2, 0.02754154500947086)
+Number5: TheManWhoWasThursday.txt, Score: (6, 0.025568242668806487)
+Number6: AnneOfGreenGables.txt, Score: (20, 0.02290433478299987)
+Number7: ThePictureOfDorianGray.txt, Score: (14, 0.02143930631818383)
+Number8: APassageToIndia.txt, Score: (7, 0.021256286330582026)
+Number9: WinnieThePooh.txt, Score: (15, 0.012076770633122699)
+Number10: TheSunAlsoRises.txt, Score: (0, 0.0)
+--------------------------------------------------
+Q4 : I d like a shillin
+Number1: HowardsEnd.txt, Score: (1, 0.3070166086555971)
+Number2: TheSignOfTheFour.txt, Score: (17, 0.15730053260897017)
+Number3: ARoomWithAView.txt, Score: (0, 0.0)
+Number4: TheMysteriousAffairAtStyles.txt, Score: (2, 0.0)
+Number5: TheManWhoWasThursday.txt, Score: (3, 0.0)
+Number6: AnneOfGreenGables.txt, Score: (4, 0.0)
+Number7: ThePictureOfDorianGray.txt, Score: (5, 0.0)
+Number8: APassageToIndia.txt, Score: (6, 0.0)
+Number9: WinnieThePooh.txt, Score: (7, 0.0)
+Number10: TheSunAlsoRises.txt, Score: (8, 0.0)
+--------------------------------------------------
+Q5 : Are bears any good at discovering it?
+Number1: HowardsEnd.txt, Score: (8, 0.6096149006803168)
+Number2: TheSignOfTheFour.txt, Score: (17, 0.4531674389991621)
+Number3: ARoomWithAView.txt, Score: (15, 0.4415952686449004)
+Number4: TheMysteriousAffairAtStyles.txt, Score: (6, 0.4386199608437409)
+Number5: TheManWhoWasThursday.txt, Score: (20, 0.42968097230976227)
+Number6: AnneOfGreenGables.txt, Score: (21, 0.4276710426685417)
+Number7: ThePictureOfDorianGray.txt, Score: (22, 0.42714151941033646)
+Number8: APassageToIndia.txt, Score: (1, 0.4259900457782362)
+Number9: WinnieThePooh.txt, Score: (0, 0.42565336190566)
+Number10: TheSunAlsoRises.txt, Score: (27, 0.4196376721213994)
+--------------------------------------------------
+Q6 : On a January evening of the early seventies
+Number1: HowardsEnd.txt, Score: (16, 0.18253390373353612)
+Number2: TheSignOfTheFour.txt, Score: (23, 0.17932895495783044)
+Number3: ARoomWithAView.txt, Score: (14, 0.17902463076724492)
+Number4: TheMysteriousAffairAtStyles.txt, Score: (21, 0.1758086267050616)
+Number5: TheManWhoWasThursday.txt, Score: (3, 0.1736114914893518)
+Number6: AnneOfGreenGables.txt, Score: (2, 0.1730773159013116)
+Number7: ThePictureOfDorianGray.txt, Score: (20, 0.16433614868338964)
+Number8: APassageToIndia.txt, Score: (26, 0.15010073340219376)
+Number9: WinnieThePooh.txt, Score: (1, 0.1429304473319637)
+Number10: TheSunAlsoRises.txt, Score: (17, 0.12874017998758214)
+--------------------------------------------------
